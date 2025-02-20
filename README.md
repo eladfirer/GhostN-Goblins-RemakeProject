@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GhostN-Goblins-RemakeProject
 I've created a remake of the iconic first stage and final stage of the 1985 arcade classic Ghosts 'n Goblins, adding my own unique twist to the gameplay.
 
