@@ -1,0 +1,4385 @@
+fileFormatVersion: 2
+guid: 0102d774c3cac41e1b68c05b8de9f699
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7441139868736287282
+    second: Arthur_0
+  - first:
+      213: -768786762449310870
+    second: Arthur_1
+  - first:
+      213: -4681044102383016308
+    second: Arthur_2
+  - first:
+      213: 7346490297999206173
+    second: Arthur_3
+  - first:
+      213: -721202685715504688
+    second: Arthur_4
+  - first:
+      213: -7013045136993809118
+    second: Arthur_5
+  - first:
+      213: 2990359774189280090
+    second: Arthur_6
+  - first:
+      213: -3384554909940640935
+    second: Arthur_7
+  - first:
+      213: 4789068181964507402
+    second: Arthur_8
+  - first:
+      213: 472891312662425887
+    second: Arthur_9
+  - first:
+      213: -7476573047740839907
+    second: Arthur_10
+  - first:
+      213: -3723369255009046691
+    second: Arthur_11
+  - first:
+      213: 6717223252606652327
+    second: Arthur_12
+  - first:
+      213: 2405068287479310883
+    second: Arthur_13
+  - first:
+      213: 706992794635863640
+    second: Arthur_14
+  - first:
+      213: -5220857798612550143
+    second: Arthur_15
+  - first:
+      213: 8066426978106993531
+    second: Arthur_16
+  - first:
+      213: 2505799285752674522
+    second: Arthur_17
+  - first:
+      213: 8234723541717542212
+    second: Arthur_18
+  - first:
+      213: 5619198022392994668
+    second: Arthur_19
+  - first:
+      213: 3040063035618191647
+    second: Arthur_20
+  - first:
+      213: -6685789710706312798
+    second: Arthur_21
+  - first:
+      213: -6574140208393874091
+    second: Arthur_22
+  - first:
+      213: 885307520838686689
+    second: Arthur_23
+  - first:
+      213: 130259688670070759
+    second: Arthur_24
+  - first:
+      213: 6907199317505620005
+    second: Arthur_25
+  - first:
+      213: 4889707847240346809
+    second: Arthur_26
+  - first:
+      213: 1619722849999533755
+    second: Arthur_27
+  - first:
+      213: -3088095481093467290
+    second: Arthur_28
+  - first:
+      213: 9179927690750533326
+    second: Arthur_29
+  - first:
+      213: -2765568152454381618
+    second: Arthur_30
+  - first:
+      213: -2418571293706658236
+    second: Arthur_31
+  - first:
+      213: 1247154188478775641
+    second: Arthur_32
+  - first:
+      213: 6925787171116094398
+    second: Arthur_33
+  - first:
+      213: -7567729911335130258
+    second: Arthur_34
+  - first:
+      213: 8125272171558946837
+    second: Arthur_35
+  - first:
+      213: -309340349699741853
+    second: Arthur_36
+  - first:
+      213: -7249928290478753063
+    second: Arthur_37
+  - first:
+      213: -9063037513958810321
+    second: Arthur_38
+  - first:
+      213: -2641283742604557707
+    second: Arthur_39
+  - first:
+      213: 70160804867653777
+    second: Arthur_40
+  - first:
+      213: -8251750234714572846
+    second: Arthur_41
+  - first:
+      213: 3250418086562211778
+    second: Arthur_42
+  - first:
+      213: 5758122617863726216
+    second: Arthur_43
+  - first:
+      213: 8927458887867041625
+    second: Arthur_44
+  - first:
+      213: -6904975203238167126
+    second: Arthur_45
+  - first:
+      213: -2183925939500697022
+    second: Arthur_46
+  - first:
+      213: 1467774073665788353
+    second: Arthur_47
+  - first:
+      213: 4601571250169444059
+    second: Arthur_48
+  - first:
+      213: -1869835977706390296
+    second: Arthur_49
+  - first:
+      213: -5648291247511142491
+    second: Arthur_50
+  - first:
+      213: -7366098393107844886
+    second: Arthur_51
+  - first:
+      213: -7288356656712179798
+    second: Arthur_52
+  - first:
+      213: 4419757411681586031
+    second: Arthur_53
+  - first:
+      213: -23378911549632427
+    second: Arthur_54
+  - first:
+      213: 3205502847242067293
+    second: Arthur_55
+  - first:
+      213: 6269642918220508664
+    second: Arthur_56
+  - first:
+      213: -3178818979974892677
+    second: Arthur_57
+  - first:
+      213: -3880479049105381574
+    second: Arthur_58
+  - first:
+      213: -2814767902249969750
+    second: Arthur_59
+  - first:
+      213: 951769816196575687
+    second: Arthur_60
+  - first:
+      213: 1418911458284527025
+    second: Arthur_61
+  - first:
+      213: 59862953584274524
+    second: Arthur_62
+  - first:
+      213: 3157481084504232366
+    second: Arthur_63
+  - first:
+      213: 6338236803556189844
+    second: Arthur_64
+  - first:
+      213: -1206641979065911112
+    second: Arthur_65
+  - first:
+      213: 9167789778736899500
+    second: Arthur_66
+  - first:
+      213: -7792967460232846805
+    second: Arthur_67
+  - first:
+      213: -4389193626100077961
+    second: Arthur_68
+  - first:
+      213: -5574782307330653917
+    second: Arthur_69
+  - first:
+      213: 2245456168666518427
+    second: Arthur_70
+  - first:
+      213: -1818119527590808263
+    second: Arthur_71
+  - first:
+      213: 3761124630548067272
+    second: Arthur_72
+  - first:
+      213: 1972510706828336354
+    second: Arthur_73
+  - first:
+      213: -7721768328389542440
+    second: Arthur_74
+  - first:
+      213: -204620701703016473
+    second: Arthur_75
+  - first:
+      213: -1461267766016486690
+    second: Arthur_76
+  - first:
+      213: -5967049117214641758
+    second: Arthur_77
+  - first:
+      213: 5948244238365901082
+    second: Arthur_78
+  - first:
+      213: -6402979352434388107
+    second: Arthur_79
+  - first:
+      213: -6866935424391908776
+    second: Arthur_80
+  - first:
+      213: -7923700542239499747
+    second: Arthur_81
+  - first:
+      213: -7618458580642348768
+    second: Arthur_82
+  - first:
+      213: 349234611985412863
+    second: Arthur_83
+  - first:
+      213: 4727724080341418391
+    second: Arthur_84
+  - first:
+      213: -8489838200261509173
+    second: Arthur_85
+  - first:
+      213: -7513851453835004243
+    second: Arthur_86
+  - first:
+      213: 8426419144904432462
+    second: Arthur_87
+  - first:
+      213: -3266704946060916480
+    second: Arthur_88
+  - first:
+      213: 8821422558252842422
+    second: Arthur_89
+  - first:
+      213: -6189863459810022040
+    second: Arthur_90
+  - first:
+      213: -737846453548878670
+    second: Arthur_91
+  - first:
+      213: -7939021253321173069
+    second: Arthur_92
+  - first:
+      213: -529091051771053854
+    second: Arthur_93
+  - first:
+      213: 3324440812837605528
+    second: Arthur_94
+  - first:
+      213: 8365503719865442341
+    second: Arthur_95
+  - first:
+      213: 9120346451870187411
+    second: Arthur_96
+  - first:
+      213: -6109479013044545224
+    second: Arthur_97
+  - first:
+      213: 6641303815580903903
+    second: Arthur_98
+  - first:
+      213: -9048413811845357729
+    second: Arthur_99
+  - first:
+      213: 2792554537333010936
+    second: Arthur_100
+  - first:
+      213: -7285236641157087270
+    second: Arthur_101
+  - first:
+      213: -3000662705399486341
+    second: Arthur_102
+  - first:
+      213: -5027853599971039949
+    second: Arthur_103
+  - first:
+      213: 1309178941767763321
+    second: Arthur_104
+  - first:
+      213: -6752752000262342492
+    second: Arthur_105
+  - first:
+      213: 8888901700747462062
+    second: Arthur_106
+  - first:
+      213: -4972571759585956681
+    second: Arthur_107
+  - first:
+      213: -2961363414028481605
+    second: Arthur_108
+  - first:
+      213: -8103126246378900975
+    second: Arthur_109
+  - first:
+      213: -2977670597020524915
+    second: Arthur_110
+  - first:
+      213: -8960946349256711424
+    second: Arthur_111
+  - first:
+      213: -4802319424026543873
+    second: Arthur_112
+  - first:
+      213: -8426591186277901035
+    second: Arthur_113
+  - first:
+      213: 3622537760660750828
+    second: Arthur_114
+  - first:
+      213: 7438030375977539812
+    second: Arthur_115
+  - first:
+      213: 522856527742158639
+    second: Arthur_116
+  - first:
+      213: 6078013321215633619
+    second: Arthur_117
+  - first:
+      213: 7028288804120272793
+    second: Arthur_118
+  - first:
+      213: 8919326583736374246
+    second: Arthur_119
+  - first:
+      213: 8597783106952622665
+    second: Arthur_120
+  - first:
+      213: -1169049682772071160
+    second: Arthur_121
+  - first:
+      213: -7539189389340122009
+    second: Arthur_122
+  - first:
+      213: 4853744715565439635
+    second: Arthur_123
+  - first:
+      213: -3857238994710532714
+    second: Arthur_124
+  - first:
+      213: 1343764215787713359
+    second: Arthur_125
+  - first:
+      213: 1529271733818864413
+    second: Arthur_126
+  - first:
+      213: -6946546819472141045
+    second: Arthur_127
+  - first:
+      213: 1325503294130853119
+    second: Arthur_128
+  - first:
+      213: -3065976374627281306
+    second: Arthur_129
+  - first:
+      213: -8973034045079078792
+    second: Arthur_130
+  - first:
+      213: 8987648019512996080
+    second: Arthur_131
+  - first:
+      213: -1375103511740659252
+    second: Arthur_132
+  - first:
+      213: -1375398543657353277
+    second: Arthur_133
+  - first:
+      213: -180999291997395205
+    second: Arthur_134
+  - first:
+      213: 1385135770098111487
+    second: Arthur_135
+  - first:
+      213: -5651488974396863186
+    second: Arthur_136
+  - first:
+      213: 4708930778133018043
+    second: Arthur_137
+  - first:
+      213: -5032420922208724696
+    second: Arthur_138
+  - first:
+      213: -6192772830220748737
+    second: Arthur_139
+  - first:
+      213: -4669596324110631411
+    second: Arthur_140
+  - first:
+      213: -5523331924878484300
+    second: Arthur_141
+  - first:
+      213: -6713565608021309034
+    second: Arthur_142
+  - first:
+      213: -9021516277192658720
+    second: Arthur_143
+  - first:
+      213: 2418573209456625356
+    second: Arthur_144
+  - first:
+      213: -1650769103620770358
+    second: Arthur_145
+  - first:
+      213: 5703782140673339575
+    second: Arthur_146
+  - first:
+      213: -4120342351108231533
+    second: Arthur_147
+  - first:
+      213: -4291890042242249747
+    second: Arthur_148
+  - first:
+      213: 8040129313723273793
+    second: Arthur_149
+  - first:
+      213: 8552515378939510078
+    second: Arthur_150
+  - first:
+      213: -6228590643400942800
+    second: Arthur_151
+  - first:
+      213: -7373987538093700271
+    second: Arthur_152
+  - first:
+      213: -4630155645466961623
+    second: Arthur_153
+  - first:
+      213: 2730438413925575355
+    second: Arthur_154
+  - first:
+      213: 8156510951816419720
+    second: Arthur_155
+  - first:
+      213: -1708452851318411394
+    second: Arthur_156
+  - first:
+      213: 6849787990704715524
+    second: Arthur_157
+  - first:
+      213: -8210569982021874413
+    second: Arthur_158
+  - first:
+      213: 5540578022041804103
+    second: Arthur_159
+  - first:
+      213: -2382073653283192805
+    second: Arthur_160
+  - first:
+      213: -796576821870931469
+    second: Arthur_161
+  - first:
+      213: 7519772884733774644
+    second: Arthur_162
+  - first:
+      213: 4456464220180831963
+    second: Arthur_163
+  - first:
+      213: -3434657765467475431
+    second: Arthur_164
+  - first:
+      213: 4839525956290563720
+    second: Arthur_165
+  - first:
+      213: 3274402614279704316
+    second: Arthur_166
+  - first:
+      213: 5521107860824813035
+    second: Arthur_167
+  - first:
+      213: -6729762810143548450
+    second: Arthur_168
+  - first:
+      213: -4687655067345596484
+    second: Arthur_169
+  - first:
+      213: 943990291240233795
+    second: Arthur_170
+  - first:
+      213: 5992938109319794099
+    second: Arthur_171
+  - first:
+      213: 8637595325874904524
+    second: Arthur_172
+  - first:
+      213: 5709611323900119013
+    second: Arthur_173
+  - first:
+      213: 7399934696562691203
+    second: Arthur_174
+  - first:
+      213: -4318262262039074489
+    second: Arthur_175
+  - first:
+      213: -6716964962666856594
+    second: Arthur_176
+  - first:
+      213: 1488886798174169956
+    second: Arthur_177
+  - first:
+      213: -309403505036272327
+    second: Arthur_178
+  - first:
+      213: 2215820821478620911
+    second: Arthur_179
+  - first:
+      213: -2396469893503065539
+    second: Arthur_180
+  - first:
+      213: -1522494724695686213
+    second: Arthur_181
+  - first:
+      213: -7377469434290629450
+    second: Arthur_182
+  - first:
+      213: 5621771976615982675
+    second: Arthur_183
+  - first:
+      213: -6308938997676940054
+    second: Arthur_184
+  - first:
+      213: -7061064397903485614
+    second: Arthur_185
+  - first:
+      213: 8431106885211775365
+    second: Arthur_186
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arthur_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1000
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd0af7d6b2cbb890800000000000000
+      internalID: -7441139868736287282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1000
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6baf244388b455f0800000000000000
+      internalID: -768786762449310870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 999
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86e58ba037990fb0800000000000000
+      internalID: -4681044102383016308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1001
+        width: 178
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17a81ea00af3f560800000000000000
+      internalID: 7346490297999206173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 945
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1aeda7af5cdf5f0800000000000000
+      internalID: -721202685715504688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 977
+        width: 139
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d04b7ca98acae90800000000000000
+      internalID: -7013045136993809118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 889
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9531f26dd35a701d0800000000000000
+      internalID: -3384554909940640935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 889
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09ce1f4320367240800000000000000
+      internalID: 4789068181964507402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 889
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11bc94b42c009600800000000000000
+      internalID: 472891312662425887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 889
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18c528fc60ed3890800000000000000
+      internalID: -7476573047740839907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 889
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f239bc36fe35cc0800000000000000
+      internalID: -3723369255009046691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 889
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af0d9875fe583d50800000000000000
+      internalID: 6717223252606652327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 835
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ae2c76dd4806120800000000000000
+      internalID: 2405068287479310883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 835
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856080f633ebfc900800000000000000
+      internalID: 706992794635863640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 835
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10efed25e79cb87b0800000000000000
+      internalID: -5220857798612550143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 835
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7be1bc4994b1ff60800000000000000
+      internalID: 8066426978106993531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 835
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad837b19c2366c220800000000000000
+      internalID: 2505799285752674522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 835
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445ee978e6d974270800000000000000
+      internalID: 8234723541717542212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 835
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bdf4f54d66bfd40800000000000000
+      internalID: 5619198022392994668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_20
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 835
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1961d45939703a20800000000000000
+      internalID: 3040063035618191647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 835
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a973625ead4733a0800000000000000
+      internalID: -6685789710706312798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 781
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555121fcf46f3c4a0800000000000000
+      internalID: -6574140208393874091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 781
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e75298ef7e394c00800000000000000
+      internalID: 885307520838686689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 781
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e78bb72f76cec100800000000000000
+      internalID: 130259688670070759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 781
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5283eb0fe2d4bdf50800000000000000
+      internalID: 6907199317505620005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_26
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 781
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc633a516bbbd340800000000000000
+      internalID: 4889707847240346809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_27
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 781
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb63ec4b9596a7610800000000000000
+      internalID: 1619722849999533755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 781
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6635fe87581e425d0800000000000000
+      internalID: -3088095481093467290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 781
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece15fee897a56f70800000000000000
+      internalID: 9179927690750533326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 728
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfb2defa6abe99d0800000000000000
+      internalID: -2765568152454381618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 728
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e58a6f8328f6ed0800000000000000
+      internalID: -2418571293706658236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 728
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9510b607028ce4110800000000000000
+      internalID: 1247154188478775641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 728
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3155cdcb65d1060800000000000000
+      internalID: 6925787171116094398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 728
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b65cebdb50af690800000000000000
+      internalID: -7567729911335130258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 728
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51843219df3c2c070800000000000000
+      internalID: 8125272171558946837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 728
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367a375479005bbf0800000000000000
+      internalID: -309340349699741853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 674
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da75fea1a4136b90800000000000000
+      internalID: -7249928290478753063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 674
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d127a266f993280800000000000000
+      internalID: -9063037513958810321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_39
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 674
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5728a032e66485bd0800000000000000
+      internalID: -2641283742604557707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 674
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190ca4b51e249f000800000000000000
+      internalID: 70160804867653777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 674
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7779491e4eb7d80800000000000000
+      internalID: -8251750234714572846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 674
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7ab0d370ecb1d20800000000000000
+      internalID: 3250418086562211778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_43
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 674
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884e8ea5306f8ef40800000000000000
+      internalID: 5758122617863726216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_44
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 674
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957083e0f84b4eb70800000000000000
+      internalID: 8927458887867041625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_45
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 674
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadbb1403a99c20a0800000000000000
+      internalID: -6904975203238167126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 621
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24abc40dde221b1e0800000000000000
+      internalID: -2183925939500697022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_47
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 621
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9906f4eb49e5410800000000000000
+      internalID: 1467774073665788353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_48
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 622
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6fffefba01cdf30800000000000000
+      internalID: 4601571250169444059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 622
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecb098c5120d06e0800000000000000
+      internalID: -1869835977706390296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 622
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af762c490d3d91b0800000000000000
+      internalID: -5648291247511142491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_51
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 622
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae03b3ae98c56c990800000000000000
+      internalID: -7366098393107844886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 622
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf11507c3e8ada90800000000000000
+      internalID: -7288356656712179798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_53
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 622
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b4ea4f2f1265d30800000000000000
+      internalID: 4419757411681586031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_54
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 561
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55059d9f001fcaff0800000000000000
+      internalID: -23378911549632427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_56
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 561
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fda311240f320750800000000000000
+      internalID: 6269642918220508664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 561
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a376abf4dd4c52ac0800000000000000
+      internalID: -3880479049105381574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 560
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdd7ce147cf0b310800000000000000
+      internalID: 1418911458284527025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_64
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 562
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496264a9ac0f5f750800000000000000
+      internalID: 6338236803556189844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_74
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 561
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddba74fd94c6d490800000000000000
+      internalID: -7721768328389542440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_75
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 561
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efec415e8a092df0800000000000000
+      internalID: -204620701703016473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_76
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 561
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2dbdc75b888bbe0800000000000000
+      internalID: -1461267766016486690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_78
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 561
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a114011ae986c8250800000000000000
+      internalID: 5948244238365901082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 509
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573dcf1143c0427a0800000000000000
+      internalID: -6402979352434388107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 509
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852f2953d9eb3b0a0800000000000000
+      internalID: -6866935424391908776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_81
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 509
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a9e31a65c590290800000000000000
+      internalID: -7923700542239499747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 510
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff279ae770bb8d400800000000000000
+      internalID: 349234611985412863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_90
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 509
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d6ad58aff291aa0800000000000000
+      internalID: -6189863459810022040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_92
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 509
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7d38b9b3ee2d190800000000000000
+      internalID: -7939021253321173069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_93
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 509
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8395ddd7a48a8f0800000000000000
+      internalID: -529091051771053854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_96
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 492
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f773cb6caf19e70800000000000000
+      internalID: 9120346451870187411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 437
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83996c00535c63ba0800000000000000
+      internalID: -6109479013044545224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_98
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 437
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9652512a6aa2c50800000000000000
+      internalID: 6641303815580903903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_99
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 437
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f183424939d6280800000000000000
+      internalID: -9048413811845357729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_100
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 437
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1b3ad5e8521c620800000000000000
+      internalID: 2792554537333010936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_101
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 437
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adffb2bafd3a5ea90800000000000000
+      internalID: -7285236641157087270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_102
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 437
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78a6e9ea218b56d0800000000000000
+      internalID: -3000662705399486341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_103
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 437
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335ae0f1ac9793ab0800000000000000
+      internalID: -5027853599971039949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_104
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 437
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9754d7baf432b2210800000000000000
+      internalID: 1309178941767763321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_105
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 437
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8fd0855d76942a0800000000000000
+      internalID: -6752752000262342492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_106
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 437
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea50b6c5009bb5b70800000000000000
+      internalID: 8888901700747462062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_107
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 437
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc6db99450edfab0800000000000000
+      internalID: -4972571759585956681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_108
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 437
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb8ef73aaf17e6d0800000000000000
+      internalID: -2961363414028481605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_109
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 406
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112f0727c99eb8f80800000000000000
+      internalID: -8103126246378900975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_110
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 404
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e577e4e503da6d0800000000000000
+      internalID: -2977670597020524915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_111
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 406
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0036831c5c254a380800000000000000
+      internalID: -8960946349256711424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_112
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 405
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff870f87debba5db0800000000000000
+      internalID: -4802319424026543873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 368
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dd77a46fbbe0b80800000000000000
+      internalID: -8426591186277901035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_114
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 368
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce18f9976e6d54230800000000000000
+      internalID: 3622537760660750828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_115
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 368
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8d4b4f731393760800000000000000
+      internalID: 7438030375977539812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_116
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 368
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27c094ed3f814700800000000000000
+      internalID: 522856527742158639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_117
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 368
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d86627b9e0795450800000000000000
+      internalID: 6078013321215633619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_118
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 368
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f917c0e6f798160800000000000000
+      internalID: 7028288804120272793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_119
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 337
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e31e437540d7cb70800000000000000
+      internalID: 8919326583736374246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_120
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 336
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942f3c9ce26715770800000000000000
+      internalID: 8597783106952622665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_121
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 310
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d6695e183b6cfe0800000000000000
+      internalID: -1169049682772071160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_122
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 308
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764ecf9d13b6f5790800000000000000
+      internalID: -7539189389340122009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_123
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 308
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a15b14a17fb5340800000000000000
+      internalID: 4853744715565439635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 310
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d6e722295587ac0800000000000000
+      internalID: -3857238994710532714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_125
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 311
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4378e74f6206a210800000000000000
+      internalID: 1343764215787713359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_126
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 310
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13b15b1a80193510800000000000000
+      internalID: 1529271733818864413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_127
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b055eb9d878e89f90800000000000000
+      internalID: -6946546819472141045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_128
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 311
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff497432932256210800000000000000
+      internalID: 1325503294130853119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_129
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 269
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666d9944bb67375d0800000000000000
+      internalID: -3065976374627281306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_130
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 268
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8783391c311697380800000000000000
+      internalID: -8973034045079078792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_131
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 270
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0b051514a8abc70800000000000000
+      internalID: 8987648019512996080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_132
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 268
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc94e4544a6aaece0800000000000000
+      internalID: -1375103511740659252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_133
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 252
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfb6bccf4a99ece0800000000000000
+      internalID: -1375398543657353277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_134
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 234
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6e5e75a16fc7df0800000000000000
+      internalID: -180999291997395205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_135
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 235
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff39266e4adf83310800000000000000
+      internalID: 1385135770098111487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_136
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 235
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dc90d78b0e191b0800000000000000
+      internalID: -5651488974396863186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_137
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 198
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5b58ef79b795140800000000000000
+      internalID: 4708930778133018043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_138
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 196
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829518b85df392ab0800000000000000
+      internalID: -5032420922208724696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_139
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 195
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f387000fbe9de0aa0800000000000000
+      internalID: -6192772830220748737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_140
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 195
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e7ae042e2423fb0800000000000000
+      internalID: -4669596324110631411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_141
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 178
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc1b01d0ee2953b0800000000000000
+      internalID: -5523331924878484300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_142
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 178
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6994c9546af94d2a0800000000000000
+      internalID: -6713565608021309034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_143
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 181
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0f6827eb22dc280800000000000000
+      internalID: -9021516277192658720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_144
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc640f4158f709120800000000000000
+      internalID: 2418573209456625356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_145
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 178
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac57e741f3a4719e0800000000000000
+      internalID: -1650769103620770358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_146
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 160
+        width: 66
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b03d0313a7e72f40800000000000000
+      internalID: 5703782140673339575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_147
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 161
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e2231567a91d6c0800000000000000
+      internalID: -4120342351108231533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_148
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 161
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb4d19feb42074c0800000000000000
+      internalID: -4291890042242249747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_149
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 161
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1425eac2307449f60800000000000000
+      internalID: 8040129313723273793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_150
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 161
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d31c98c63a0b670800000000000000
+      internalID: 8552515378939510078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_151
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 107
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bd3c07fc99f89a0800000000000000
+      internalID: -6228590643400942800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_152
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 107
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b84c537655aa990800000000000000
+      internalID: -7373987538093700271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_153
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 107
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9291c29d8f16ebfb0800000000000000
+      internalID: -4630155645466961623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_154
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 107
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba6d1f554774e520800000000000000
+      internalID: 2730438413925575355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_155
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 107
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889d991ee7fb13170800000000000000
+      internalID: 8156510951816419720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_156
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 107
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fa9a9fe2b5a48e0800000000000000
+      internalID: -1708452851318411394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_157
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 107
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407f0b4c2e55f0f50800000000000000
+      internalID: 6849787990704715524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_158
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 107
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dc9125a123e0e80800000000000000
+      internalID: -8210569982021874413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_159
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 107
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d53261b5614ec40800000000000000
+      internalID: 5540578022041804103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_160
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 75
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b100d3312ac21fed0800000000000000
+      internalID: -2382073653283192805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_161
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 75
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1d218d99df1f4f0800000000000000
+      internalID: -796576821870931469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_162
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 75
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bcb22e8999b5860800000000000000
+      internalID: 7519772884733774644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_163
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 75
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdedd1ec89a88dd30800000000000000
+      internalID: 4456464220180831963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_164
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 75
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912364cb5f4a550d0800000000000000
+      internalID: -3434657765467475431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_165
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 75
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e4bf16733792340800000000000000
+      internalID: 4839525956290563720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_166
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 75
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe80c344d3017d20800000000000000
+      internalID: 3274402614279704316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_167
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 75
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed641be85aee9c40800000000000000
+      internalID: 5521107860824813035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_168
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb52c641641b92a0800000000000000
+      internalID: -6729762810143548450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_169
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 43
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf4e417d8a12feb0800000000000000
+      internalID: -4687655067345596484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_170
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 43
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34baacc1b2ab91d00800000000000000
+      internalID: 943990291240233795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_171
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd48ee55713b2350800000000000000
+      internalID: 5992938109319794099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_172
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd19585f27eed770800000000000000
+      internalID: 8637595325874904524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_173
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e74d9e8f3d9c3f40800000000000000
+      internalID: 5709611323900119013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_174
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c05b56669d1b660800000000000000
+      internalID: 7399934696562691203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_175
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 15
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749af201a537214c0800000000000000
+      internalID: -4318262262039074489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_176
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 15
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f3f7754fb88c2a0800000000000000
+      internalID: -6716964962666856594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_177
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 15
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ba0fb87a699a410800000000000000
+      internalID: 1488886798174169956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_178
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 15
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d5d06c627c4bbf0800000000000000
+      internalID: -309403505036272327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_179
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeb5261c4d20ce10800000000000000
+      internalID: 2215820821478620911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_180
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32e4d234570ebed0800000000000000
+      internalID: -2396469893503065539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_181
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb38b1a4d130fdae0800000000000000
+      internalID: -1522494724695686213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_182
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b41ec313a6fd9990800000000000000
+      internalID: -7377469434290629450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_183
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356f07ac3db840e40800000000000000
+      internalID: 5621771976615982675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_184
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae46bd568652278a0800000000000000
+      internalID: -6308938997676940054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_185
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2552eca575f020e90800000000000000
+      internalID: -7061064397903485614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_186
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581e56cca0f410570800000000000000
+      internalID: 8431106885211775365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: da2e6eb1a983c4f868df483ee0b71b40
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arthur_0: -7441139868736287282
+      Arthur_1: -768786762449310870
+      Arthur_10: -7476573047740839907
+      Arthur_100: 2792554537333010936
+      Arthur_101: -7285236641157087270
+      Arthur_102: -3000662705399486341
+      Arthur_103: -5027853599971039949
+      Arthur_104: 1309178941767763321
+      Arthur_105: -6752752000262342492
+      Arthur_106: 8888901700747462062
+      Arthur_107: -4972571759585956681
+      Arthur_108: -2961363414028481605
+      Arthur_109: -8103126246378900975
+      Arthur_11: -3723369255009046691
+      Arthur_110: -2977670597020524915
+      Arthur_111: -8960946349256711424
+      Arthur_112: -4802319424026543873
+      Arthur_113: -8426591186277901035
+      Arthur_114: 3622537760660750828
+      Arthur_115: 7438030375977539812
+      Arthur_116: 522856527742158639
+      Arthur_117: 6078013321215633619
+      Arthur_118: 7028288804120272793
+      Arthur_119: 8919326583736374246
+      Arthur_12: 6717223252606652327
+      Arthur_120: 8597783106952622665
+      Arthur_121: -1169049682772071160
+      Arthur_122: -7539189389340122009
+      Arthur_123: 4853744715565439635
+      Arthur_124: -3857238994710532714
+      Arthur_125: 1343764215787713359
+      Arthur_126: 1529271733818864413
+      Arthur_127: -6946546819472141045
+      Arthur_128: 1325503294130853119
+      Arthur_129: -3065976374627281306
+      Arthur_13: 2405068287479310883
+      Arthur_130: -8973034045079078792
+      Arthur_131: 8987648019512996080
+      Arthur_132: -1375103511740659252
+      Arthur_133: -1375398543657353277
+      Arthur_134: -180999291997395205
+      Arthur_135: 1385135770098111487
+      Arthur_136: -5651488974396863186
+      Arthur_137: 4708930778133018043
+      Arthur_138: -5032420922208724696
+      Arthur_139: -6192772830220748737
+      Arthur_14: 706992794635863640
+      Arthur_140: -4669596324110631411
+      Arthur_141: -5523331924878484300
+      Arthur_142: -6713565608021309034
+      Arthur_143: -9021516277192658720
+      Arthur_144: 2418573209456625356
+      Arthur_145: -1650769103620770358
+      Arthur_146: 5703782140673339575
+      Arthur_147: -4120342351108231533
+      Arthur_148: -4291890042242249747
+      Arthur_149: 8040129313723273793
+      Arthur_15: -5220857798612550143
+      Arthur_150: 8552515378939510078
+      Arthur_151: -6228590643400942800
+      Arthur_152: -7373987538093700271
+      Arthur_153: -4630155645466961623
+      Arthur_154: 2730438413925575355
+      Arthur_155: 8156510951816419720
+      Arthur_156: -1708452851318411394
+      Arthur_157: 6849787990704715524
+      Arthur_158: -8210569982021874413
+      Arthur_159: 5540578022041804103
+      Arthur_16: 8066426978106993531
+      Arthur_160: -2382073653283192805
+      Arthur_161: -796576821870931469
+      Arthur_162: 7519772884733774644
+      Arthur_163: 4456464220180831963
+      Arthur_164: -3434657765467475431
+      Arthur_165: 4839525956290563720
+      Arthur_166: 3274402614279704316
+      Arthur_167: 5521107860824813035
+      Arthur_168: -6729762810143548450
+      Arthur_169: -4687655067345596484
+      Arthur_17: 2505799285752674522
+      Arthur_170: 943990291240233795
+      Arthur_171: 5992938109319794099
+      Arthur_172: 8637595325874904524
+      Arthur_173: 5709611323900119013
+      Arthur_174: 7399934696562691203
+      Arthur_175: -4318262262039074489
+      Arthur_176: -6716964962666856594
+      Arthur_177: 1488886798174169956
+      Arthur_178: -309403505036272327
+      Arthur_179: 2215820821478620911
+      Arthur_18: 8234723541717542212
+      Arthur_180: -2396469893503065539
+      Arthur_181: -1522494724695686213
+      Arthur_182: -7377469434290629450
+      Arthur_183: 5621771976615982675
+      Arthur_184: -6308938997676940054
+      Arthur_185: -7061064397903485614
+      Arthur_186: 8431106885211775365
+      Arthur_19: 5619198022392994668
+      Arthur_2: -4681044102383016308
+      Arthur_20: 3040063035618191647
+      Arthur_21: -6685789710706312798
+      Arthur_22: -6574140208393874091
+      Arthur_23: 885307520838686689
+      Arthur_24: 130259688670070759
+      Arthur_25: 6907199317505620005
+      Arthur_26: 4889707847240346809
+      Arthur_27: 1619722849999533755
+      Arthur_28: -3088095481093467290
+      Arthur_29: 9179927690750533326
+      Arthur_3: 7346490297999206173
+      Arthur_30: -2765568152454381618
+      Arthur_31: -2418571293706658236
+      Arthur_32: 1247154188478775641
+      Arthur_33: 6925787171116094398
+      Arthur_34: -7567729911335130258
+      Arthur_35: 8125272171558946837
+      Arthur_36: -309340349699741853
+      Arthur_37: -7249928290478753063
+      Arthur_38: -9063037513958810321
+      Arthur_39: -2641283742604557707
+      Arthur_4: -721202685715504688
+      Arthur_40: 70160804867653777
+      Arthur_41: -8251750234714572846
+      Arthur_42: 3250418086562211778
+      Arthur_43: 5758122617863726216
+      Arthur_44: 8927458887867041625
+      Arthur_45: -6904975203238167126
+      Arthur_46: -2183925939500697022
+      Arthur_47: 1467774073665788353
+      Arthur_48: 4601571250169444059
+      Arthur_49: -1869835977706390296
+      Arthur_5: -7013045136993809118
+      Arthur_50: -5648291247511142491
+      Arthur_51: -7366098393107844886
+      Arthur_52: -7288356656712179798
+      Arthur_53: 4419757411681586031
+      Arthur_54: -23378911549632427
+      Arthur_55: 3205502847242067293
+      Arthur_56: 6269642918220508664
+      Arthur_57: -3178818979974892677
+      Arthur_58: -3880479049105381574
+      Arthur_59: -2814767902249969750
+      Arthur_6: 2990359774189280090
+      Arthur_60: 951769816196575687
+      Arthur_61: 1418911458284527025
+      Arthur_62: 59862953584274524
+      Arthur_63: 3157481084504232366
+      Arthur_64: 6338236803556189844
+      Arthur_65: -1206641979065911112
+      Arthur_66: 9167789778736899500
+      Arthur_67: -7792967460232846805
+      Arthur_68: -4389193626100077961
+      Arthur_69: -5574782307330653917
+      Arthur_7: -3384554909940640935
+      Arthur_70: 2245456168666518427
+      Arthur_71: -1818119527590808263
+      Arthur_72: 3761124630548067272
+      Arthur_73: 1972510706828336354
+      Arthur_74: -7721768328389542440
+      Arthur_75: -204620701703016473
+      Arthur_76: -1461267766016486690
+      Arthur_77: -5967049117214641758
+      Arthur_78: 5948244238365901082
+      Arthur_79: -6402979352434388107
+      Arthur_8: 4789068181964507402
+      Arthur_80: -6866935424391908776
+      Arthur_81: -7923700542239499747
+      Arthur_82: -7618458580642348768
+      Arthur_83: 349234611985412863
+      Arthur_84: 4727724080341418391
+      Arthur_85: -8489838200261509173
+      Arthur_86: -7513851453835004243
+      Arthur_87: 8426419144904432462
+      Arthur_88: -3266704946060916480
+      Arthur_89: 8821422558252842422
+      Arthur_9: 472891312662425887
+      Arthur_90: -6189863459810022040
+      Arthur_91: -737846453548878670
+      Arthur_92: -7939021253321173069
+      Arthur_93: -529091051771053854
+      Arthur_94: 3324440812837605528
+      Arthur_95: 8365503719865442341
+      Arthur_96: 9120346451870187411
+      Arthur_97: -6109479013044545224
+      Arthur_98: 6641303815580903903
+      Arthur_99: -9048413811845357729
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

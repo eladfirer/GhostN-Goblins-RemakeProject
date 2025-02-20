@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fb17ba7c48bd48aeb22deaf5315c20f, type: 3}
+  m_Name: CharacterConfig
+  m_EditorClassIdentifier: 
+  check: 0.2
+  delay: 0.1
+  moveForwardNormalizer: 1
+  graveCollideJumpedTimer: 0.4
+  crouchCheck: 0.3
+  changeAboveBeforeFinalClimb: 0.5
+  changeEnterIntoClimbModeFromAbove: 1.5
+  positionChangeOutOfFinalClimb: -0.02
+  bufferEdgeLadder: 0.01
+  beforeFinalClimbBuffer: 0.05
+  moveAdjuster: 0.007
+  regularJumpedTimer: 0.2
+  jumpForce: 2.8
+  damagedJumpForce: 2.7
+  damagedTimeJump: 0.3
+  invulnerableTime: 3
+  damageArmorGameObject: {fileID: 3695868084526950717, guid: 378b117caa8024a50b97664cdf8f1fe4, type: 3}
+  delayTimeDeathAnimation: 0.5
+  frogJumpWalkForce: 1.3
